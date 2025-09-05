@@ -1,9 +1,9 @@
 import React from 'react';
 import aboutimg from '../assets/pana.png';
-import icon1 from '../assets/iconss1.png';
-import icon2 from '../assets/iconss2.png';
-import icon3 from '../assets/iconss3.png';
-import icon4 from '../assets/iconss4.png';
+import icon1 from '../assets/Iconss1.png';
+import icon2 from '../assets/Iconss2.png';
+import icon3 from '../assets/Iconss3.png';
+import icon4 from '../assets/Iconss4.png';
 import teslaLogo from '../assets/tesle.png';
 import logo1 from '../assets/Compines/Logo (1).png';
 import logo2 from '../assets/Compines/Logo (2).png';

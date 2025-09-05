@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../assets/Icon.jpg'
-import icon from '../assets/Right.png'
+import icon from '../assets/right.png'
 import { useState, useEffect } from 'react'
 import { FaXmark, FaBars } from 'react-icons/fa6';
 
