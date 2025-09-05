@@ -1,4 +1,7 @@
 import React from 'react';
+import blog1 from '../assets/1.png';
+import blog2 from '../assets/2.png';
+import blog3 from '../assets/3.png';
 
 const BlogSection = () => {
     return (
@@ -14,7 +17,7 @@ const BlogSection = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div className="space-y-4">
-                    <img src="/src/assets/1.png" alt="Blog 1" className="w-full h-64 object-cover rounded-lg" />
+                    <img src={blog1} alt="Blog 1" className="w-full h-64 object-cover rounded-lg" />
                     <h3 className="text-lg font-semibold text-gray-700">
                         Creating Streamlined Safeguarding Processes with OneRen
                     </h3>
@@ -24,7 +27,7 @@ const BlogSection = () => {
                 </div>
 
                 <div className="space-y-4">
-                    <img src="/src/assets/2.png" alt="Blog 2" className="w-full h-64 object-cover rounded-lg" />
+                    <img src={blog2} alt="Blog 2" className="w-full h-64 object-cover rounded-lg" />
                     <h3 className="text-lg font-semibold text-gray-700">
                         What are your safeguarding responsibilities and how can you manage them?
                     </h3>
@@ -34,7 +37,7 @@ const BlogSection = () => {
                 </div>
 
                 <div className="space-y-4">
-                    <img src="/src/assets/3.png" alt="Blog 3" className="w-full h-64 object-cover rounded-lg" />
+                    <img src={blog3} alt="Blog 3" className="w-full h-64 object-cover rounded-lg" />
                     <h3 className="text-lg font-semibold text-gray-700">
                         Revamping the Membership Model with Triathlon Australia
                     </h3>
