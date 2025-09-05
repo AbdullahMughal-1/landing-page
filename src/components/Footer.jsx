@@ -6,6 +6,7 @@ import facebook from '../assets/facebook.png';
 import twitter from '../assets/twitter.png';
 import youtube from '../assets/youtube.png';
 
+
 const Footer = () => {
     return (
         <div className="bg-gray-100 mt-20">
