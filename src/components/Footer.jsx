@@ -1,7 +1,8 @@
 import React from 'react';
+
 import logo from '../assets/Logo.png';
 import instagram from '../assets/instagram.png';
-import facebook from '../assets/Facebook.png';
+import facebook from '../assets/facebook.png';
 import twitter from '../assets/twitter.png';
 import youtube from '../assets/youtube.png';
 
@@ -17,9 +18,9 @@ const Footer = () => {
                 </button>
             </div>
 
-            <div className=" w-screen text-white bg-[#263238] px-4 lg:px-14 py-16 max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 text-gray-600">
+            <div className="w-screen text-white bg-[#263238] px-4 lg:px-14 py-16 max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 text-gray-600">
                 <div className="space-y-6">
-                    <img src={logo} alt="Nexcent Logo" className=" bg-white w-32" />
+                    <img src={logo} alt="Nexcent Logo" className="bg-white w-32" />
                     <p className="text-sm">
                         Copyright © 2020 Landify UI Kit. All rights reserved.
                     </p>
@@ -53,15 +54,13 @@ const Footer = () => {
                     </ul>
                 </div>
 
-                <div flex>
+                <div>
                     <h4 className="text-lg font-semibold mb-4">Stay up to date</h4>
                     <input
                         type="email"
                         placeholder="Your email address"
                         className="text-white w-full px-4 py-2 border border-gray-300 rounded-lg text-sm"
-
                     />
-
                 </div>
             </div>
         </div>
