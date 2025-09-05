@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/logo.png';
+import logo from '../assets/Logo.png';
 import instagram from '../assets/instagram.png';
 import facebook from '../assets/facebook.png';
 import twitter from '../assets/twitter.png';
@@ -19,7 +19,7 @@ const Footer = () => {
 
             <div className=" w-screen text-white bg-[#263238] px-4 lg:px-14 py-16 max-w-screen-xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 text-gray-600">
                 <div className="space-y-6">
-                    <img src={logo} alt="Nexcent Logo" className="w-32" />
+                    <img src={logo} alt="Nexcent Logo" className=" bg-white w-32" />
                     <p className="text-sm">
                         Copyright © 2020 Landify UI Kit. All rights reserved.
                     </p>
