@@ -4,13 +4,13 @@ import Icon0 from '../assets/Icon (0).png';
 import Icon1 from '../assets/Icon (1).png';
 import Icon2 from '../assets/Icon (2).png';
 
-import Logo0 from '../assets/Compines/logo.png';
-import Logo1 from '../assets/Compines/logo (1).png';
-import Logo2 from '../assets/Compines/logo (2).png';
-import Logo3 from '../assets/Compines/logo (3).png';
-import Logo4 from '../assets/Compines/logo (4).png';
-import Logo5 from '../assets/Compines/logo (5).png';
-import Logo6 from '../assets/Compines/logo (6).png';
+import Logo0 from '../assets/Compines/Logo.png';
+import Logo1 from '../assets/Compines/Logo (1).png';
+import Logo2 from '../assets/Compines/Logo (2).png';
+import Logo3 from '../assets/Compines/Logo (3).png';
+import Logo4 from '../assets/Compines/Logo (4).png';
+import Logo5 from '../assets/Compines/Logo (5).png';
+import Logo6 from '../assets/Compines/Logo (6).png';
 
 const Services = () => {
     const services = [
