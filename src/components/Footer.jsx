@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../assets/Logo.png';
 import instagram from '../assets/instagram.png';
-import facebook from '../assets/facebook.png';
+import facebook from '../assets/Facebook.png';
 import twitter from '../assets/twitter.png';
 import youtube from '../assets/youtube.png';
 
